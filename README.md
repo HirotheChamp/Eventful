@@ -22,8 +22,8 @@
 <hr></hr>
 
 ## Background
- in the field. BugsyTracker is a user-friendly app that is simple in design to help in field that is very focus-driven. A user can describe a bug whilst also assigning the issue to another member on their team with relative ease.  
 
+N/A
 
 
 <hr></hr>
