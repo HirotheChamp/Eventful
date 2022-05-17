@@ -1,4 +1,4 @@
- <h1 align="center">GraphQL</h1>
+ <h1 align="center">Eventful</h1>
 
 
 <h3>TBD</h3>
