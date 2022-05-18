@@ -1,7 +1,7 @@
  <h1 align="center">Eventful</h1>
 
 
-<h3>TBD</h3>
+![eventful](https://user-images.githubusercontent.com/93508000/168932634-126f5c10-f3eb-4b46-a101-5e8a075736fd.PNG)
 
 <hr></hr>
 
