@@ -61,7 +61,7 @@ N/A
 
 ## Usage
 
-N/A
+This application helps in organizing events in an orderly fashion. Events can be booked with a display tab for all the booked events of a signed in user.
 
 
 
