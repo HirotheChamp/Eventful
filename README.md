@@ -23,14 +23,17 @@
 
 ## Background
 
-N/A
+I am a part of a music group known as Elevated Common Ground. We typically host events for music and I decided to make a website catered to event planning. Thus, Eventful was derived!
 
 
 <hr></hr>
 
 ## Features
 
-N/A
+* Login and Registration
+* Creating events
+* booking events
+* graph that formulates the cost of all the posted events 
 
 <hr></hr>
 
@@ -40,6 +43,7 @@ N/A
 * MongoDB -- use to store data in the form of bugs and users created through the application
 * Express -- enables connection to the frontend with minimal approach
 * HTML, CSS, JSON -- used to create front end form creation script
+* GraphQL -- Creating database schemas to be used in making single API calls
 
 
 
@@ -65,20 +69,20 @@ N/A
 
 ## Project Status
 
-N/A
+Completed!
 
 <hr></hr>
 
 ## Room for Improvement
 
-N/A
+New features could be added to make the experience more dynamic. There isnt many features.
 
 
 <hr></hr>
 
 ## Acknowledgement
 
-N/A
+Code Academy Youtube channel for help with GraphQL tips
 
 
 <hr></hr>
