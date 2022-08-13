@@ -1,7 +1,7 @@
  <h1 align="center">Eventful</h1>
 
 
-![eventful](https://user-images.githubusercontent.com/93508000/168932634-126f5c10-f3eb-4b46-a101-5e8a075736fd.PNG)
+![eventful](![eventful](https://user-images.githubusercontent.com/93508000/184463441-5ff9e1eb-9f33-4314-b92d-061ee14ceeb8.JPG))
 
 <hr></hr>
 
