@@ -69,13 +69,13 @@ This application helps in organizing events in an orderly fashion. Events can be
 
 ## Project Status
 
-Completed!
+Most of the application is complete, fine tuning and added features in progress.
 
 <hr></hr>
 
 ## Room for Improvement
 
-New features could be added to make the experience more dynamic. There isnt many features.
+needs New features!
 
 
 <hr></hr>
